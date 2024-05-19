@@ -1,4 +1,4 @@
-# E = m * c pow 2
+# E = m * c pow 2 or c ** 2
 
 mass = int(input("Mass in Kg: "))
 c = 300000000
